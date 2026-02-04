@@ -1,4 +1,4 @@
-# The Greedy Goose
+# The Golden Goose
 
 A farmer owned a goose that laid one golden egg every day.
 At first, he was grateful and sold the eggs for a good life.
