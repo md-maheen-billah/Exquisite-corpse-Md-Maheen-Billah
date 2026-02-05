@@ -1,0 +1,6 @@
+- made a instructions how to work with GitHub Desktop
+- feel free to ask more tmr in class
+- you can not rly make mistakes pushing if u work with vsc
+- interesting setting you can find in settings of rep - rules - rulesets.
+- scroll down to danger zone, some important stuff there.
+- do not forget to pull changes before work
