@@ -8,4 +8,4 @@ So he killed it and cut it open.
 But there was nothing — just an ordinary goose.
 In his greed, he lost everything.
 
-Something new
+Something new is here
